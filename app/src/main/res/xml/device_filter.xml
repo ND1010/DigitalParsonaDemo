@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- vendor and product ID for Eikons -->
+    <usb-device vendor-id="5246" product-id="8214" />
+
+    <!-- vendor and product ID for Pocket 30 (prototype) 0x05ba,0x7340 -->
+    <usb-device vendor-id="1466" product-id="29504" />
+
+    <!-- vendor and product ID for Drax 30 0x080b,0x010b -->
+    <usb-device vendor-id="2059" product-id="267"  />
+
+    <!-- vendor and product ID for Pocket 30 0x080b,0x0109 -->
+    <usb-device vendor-id="2059" product-id="265" />
+
+</resources>
